@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image May 4, 2026, 10_33_22 PM" src="https://github.com/user-attachments/assets/4bc8243f-7945-49d0-a356-a99e0e94597b" />
+
 # 📊 Sentiment Analysis on E-commerce Reviews using LSTM
 
 ## 📌 Overview
