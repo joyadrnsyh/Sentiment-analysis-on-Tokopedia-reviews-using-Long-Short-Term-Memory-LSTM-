@@ -15,6 +15,8 @@ Dengan banyaknya data review pelanggan, analisis manual menjadi tidak efisien. M
 ---
 
 ## 📂 Dataset
+<img width="1286" height="385" alt="image" src="https://github.com/user-attachments/assets/8827df84-72b8-44f0-98b8-fe75ef53a627" />
+
 - Sumber: Tokopedia (Scraping / API)
 - Bahasa: Indonesia
 - Jumlah data: 10825
@@ -38,6 +40,8 @@ Tahapan preprocessing:
 ---
 
 ## 🤖 Modeling
+<img width="2444" height="3294" alt="Arsitektur Tuned LSTM" src="https://github.com/user-attachments/assets/13da11c4-5f84-42c1-8c4e-12ce196118d0" />
+
 Model yang digunakan:
 - Embedding Layer
 - Bidirectional LSTM
