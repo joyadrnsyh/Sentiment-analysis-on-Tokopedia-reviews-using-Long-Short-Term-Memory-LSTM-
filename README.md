@@ -56,7 +56,7 @@ Metrik evaluasi:
 - Confusion Matrix
 
 ### Hasil
-- Accuracy: [ISI AKURASI]
+- Accuracy: 98%
 - Model mampu mengklasifikasikan sentimen dengan performa yang baik
 
 ---
