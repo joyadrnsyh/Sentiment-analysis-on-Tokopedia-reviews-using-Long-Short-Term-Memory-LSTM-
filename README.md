@@ -17,7 +17,7 @@ Dengan banyaknya data review pelanggan, analisis manual menjadi tidak efisien. M
 ## 📂 Dataset
 - Sumber: Tokopedia (Scraping / API)
 - Bahasa: Indonesia
-- Jumlah data: [ISI JUMLAH DATASET]
+- Jumlah data: 10825
 
 ### Contoh Data
 | Review | Sentimen |
@@ -54,8 +54,11 @@ Metrik evaluasi:
 - Accuracy
 - Loss
 - Confusion Matrix
+<img width="1165" height="470" alt="image" src="https://github.com/user-attachments/assets/339b1501-1217-4f81-af3e-7ef157cab1d3" />
 
 ### Hasil
+<img width="649" height="547" alt="image" src="https://github.com/user-attachments/assets/dc566d29-5365-4d0d-8008-e4a94ca74e29" />
+
 - Accuracy: 98%
 - Model mampu mengklasifikasikan sentimen dengan performa yang baik
 
